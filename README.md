@@ -9,8 +9,11 @@
 Configure AWS CLI
 
 aws configure --profile challange
+
 Enter Access key & secret
+
 Enter AWS Region
+
 Enter output format; none or json
 
 List available buckets
